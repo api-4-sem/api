@@ -18,12 +18,14 @@
 O projeto consiste em desenvolver um sistema em colaboração com a [Oracle](https://www.oracle.com/br/) para cadastrar novos parceiros e gerenciar informações dos parceiros existentes da empresa.
 
 ## :hammer_and_wrench: Tecnologias utilizadas
+<div align="center">
+    <img src="https://github.com/api-4-sem/api/assets/111617208/ca9c93cf-533a-46d8-8732-b89c402819bb" alt="java">
+    <img src="https://github.com/api-4-sem/api/assets/111617208/f5899d7d-f774-4498-89c0-d8d251014770" alt="spring">
+    <img src="https://github.com/api-4-sem/api/assets/111617208/5f197c2a-097e-4104-9a3e-18aa1c1206aa" alt="vue js">
+    <img src="https://github.com/api-4-sem/api/assets/111617208/80960a12-ba8c-4db0-97dc-14ff944d658f" alt="bootstrap">
+    <img src="https://github.com/api-4-sem/api/assets/111617208/f6f7433d-65d7-45b0-94e4-4b4900d8c390" alt="postgres">
+</div>
 
-![java](https://github.com/api-4-sem/api/assets/111617208/ca9c93cf-533a-46d8-8732-b89c402819bb)
-![spring](https://github.com/api-4-sem/api/assets/111617208/f5899d7d-f774-4498-89c0-d8d251014770)
-![vue js](https://github.com/api-4-sem/api/assets/111617208/5f197c2a-097e-4104-9a3e-18aa1c1206aa)
-![bootstrap](https://github.com/api-4-sem/api/assets/111617208/80960a12-ba8c-4db0-97dc-14ff944d658f)
-![postgres](https://github.com/api-4-sem/api/assets/111617208/f6f7433d-65d7-45b0-94e4-4b4900d8c390)
 
 ## :jigsaw: Desafio
 1. Mapeamento da Linhagem dos Dados:
