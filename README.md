@@ -15,7 +15,7 @@
 
 ## :books: Sobre o projeto
 
-O projeto consiste em desenvolver um sistema em parceria com a [Oracle](https://www.oracle.com/br/) para cadastrar novos parceiros e gerenciar informações dos parceiros existentes da empresa.
+O projeto consiste em desenvolver um sistema em colaboração com a [Oracle](https://www.oracle.com/br/) para cadastrar novos parceiros e gerenciar informações dos parceiros existentes da empresa.
 
 ## :hammer_and_wrench: Tecnologias utilizadas
 
