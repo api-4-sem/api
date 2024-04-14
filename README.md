@@ -69,7 +69,7 @@ O projeto consiste em desenvolver um sistema em colaboração com a [Oracle](htt
 
 | Sprint | Previsão de entrega | Status |
 | :---: | :---: | :---: |
-| 1 | 14/04 | - |
+| 1 | 14/04 | :white_check_mark: |
 | 2 | 05/05 | - |
 | 3 | 26/05 | - |
 | 4 | 16/06 | - |
@@ -78,10 +78,10 @@ O projeto consiste em desenvolver um sistema em colaboração com a [Oracle](htt
 
 | Entrega | Prioridade |
 | :---: | :---: |
-| Visualização de dados | - |
-| Rastreio de dados | - |
-| Filtros de dados | - |
-| Acompanhamento de progresso | - |
-| Implementação de feedback | - |
-| Lacunas de habilidades | - |
-| Sistema de acompanhamento de trilhas | - |
+| Visualização de dados | 1 |
+| Rastreio de dados | 3 |
+| Filtros de dados | 2 |
+| Acompanhamento de progresso | 4 |
+| Implementação de feedback | 5 |
+| Lacunas de habilidades | 7 |
+| Sistema de acompanhamento de trilhas | 6 |
