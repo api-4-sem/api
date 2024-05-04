@@ -70,7 +70,7 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
     <img src="https://github.com/api-4-sem/api/assets/111617208/4b81d580-c9eb-4d76-aae6-3df8f3e6bcec" alt="oracle">
 </div>
 
-## :notebook: Backlog
+## :clipboard: Backlog
 <details>  
 <summary> Confira o backlog do produto: </summary>
 <br>
@@ -96,7 +96,7 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 </details>
 
-## :dart: Entregas
+## :calendar: Entregas
 
 | Sprint | Previsão de entrega | Status |
 | :---: | :---: | :---: |
@@ -105,7 +105,7 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | 3 | 26/05 | :hourglass_flowing_sand: |
 | 4 | 16/06 | :hourglass_flowing_sand: |
 
-## :calendar: Planejamento
+## :spiral_calendar: Planejamento
 
 <details>  
 <summary> Confira o planejamento das sprints: </summary>
