@@ -14,7 +14,7 @@ Desenvolver as funcionalidades essenciais para o acompanhamento do progresso dos
 
 ### :rocket: Desenvolvimento da Tela de Acompanhamento de Informações sobre Progresso de Parceiros
 
-[WIREFRAME AQUI]
+![acompanhamento-de-parceiros](https://github.com/api-4-sem/api/assets/111617208/33c5dbad-f06b-4710-a8ee-50ffe2469b05)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Implementação do Menu de Navegação:
@@ -30,7 +30,7 @@ Desenvolver as funcionalidades essenciais para o acompanhamento do progresso dos
 
 ### :rocket: Desenvolvimento do Dashboard para Visualização do Progresso dos Colaboradores
 
-[WIREFRAME AQUI]
+![visualizacao-de-dados](https://github.com/api-4-sem/api/assets/111617208/577c642b-c645-41bb-a261-49be71e39dff)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Criação do Dashboard:
@@ -42,8 +42,6 @@ Desenvolver as funcionalidades essenciais para o acompanhamento do progresso dos
 
 ### :rocket: Implementação de Filtros e Ordenação de Dados no Sistema
 
-[WIREFRAME AQUI]
-
 ### :white_check_mark: Critérios de Aceitação:
 ### - Desenvolvimento de Funcionalidades de Filtros e Ordenação:
 - Será adicionada ao sistema a funcionalidade de filtros, permitindo a ordenação dos dados de acordo com diferentes critérios, o que facilitará a análise e visualização das informações.
@@ -51,8 +49,6 @@ Desenvolver as funcionalidades essenciais para o acompanhamento do progresso dos
 - Junto com os filtros, será implementada uma interface que garanta a visualização clara e organizada dos dados ordenados, assegurando uma análise eficiente das informações.
 
 ### :rocket: Implementação de Mecanismo de Email para Feedback e Acompanhamento de Trilhas
-
-[WIREFRAME AQUI]
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Desenvolvimento do Mecanismo de Email para Coleta de Feedback:
@@ -64,7 +60,7 @@ Desenvolver as funcionalidades essenciais para o acompanhamento do progresso dos
 
 ### :rocket: Desenvolvimento da Visualização de Lacunas de Habilidades
 
-[WIREFRAME AQUI]
+![lacunas-de-habilidades](https://github.com/api-4-sem/api/assets/111617208/ad4c25ca-dcb2-4db2-9209-7096aa40808d)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Criação da Visualização de Lacunas de Habilidades:
@@ -91,7 +87,7 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 
 ### :rocket: Desenvolvimento da Funcionalidade de Cadastro de Novos Parceiros
 
-[WIREFRAME AQUI]
+![cadastro](https://github.com/api-4-sem/api/assets/111617208/c0b0a160-3596-4155-b8ba-b80c3cf6c31d)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Criação de Seção no Menu de Navegação:
@@ -105,8 +101,6 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 
 ### :rocket: Implementação da Funcionalidade de Extração de Relatórios
 
-[WIREFRAME AQUI]
-
 ### :white_check_mark: Critérios de Aceitação:
 ### - Adição de Tela para Extração de Relatórios:
 - Será incluída uma nova tela onde os usuários poderão extrair relatórios abrangentes sobre trilhas, parceiros-colaboradores, expertise e outras informações relevantes.
@@ -117,7 +111,7 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 
 ### :rocket: Desenvolvimento do Formulário de Avaliação de Parceiros
 
-[WIREFRAME AQUI]
+![avaliacao](https://github.com/api-4-sem/api/assets/111617208/1093eeb4-bd80-4688-ac0a-7a11f4f6b6bd)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Adição de Seção no Menu de Roteamento:
@@ -129,7 +123,7 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 
 ### :rocket: Desenvolvimento da Funcionalidade de Gestão de Configurações de Notificações
 
-[WIREFRAME AQUI]
+![notificacao](https://github.com/api-4-sem/api/assets/111617208/d3b8389f-43e2-4307-950e-8916d7176390)
 
 ### :white_check_mark: Critérios de Aceitação:
 ### - Adição de Tela para Gestão de Configurações de Notificações:
@@ -138,7 +132,7 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 - Um grid será implementado para configurar a frequência dos alertas e os tipos de notificações desejadas, garantindo uma gestão eficiente e organizada das configurações de notificação.
 
 ## :chart_with_upwards_trend: Burndown
-[BURNDOWN AQUI]
+![burndown-sprint2](https://github.com/api-4-sem/api/assets/111617208/7af343dc-9a79-4db7-95ae-9822f3a6604f)
 
 </details>
 
@@ -147,9 +141,6 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 <br>
 
 [RELATÓRIO AQUI]
-
-## :chart_with_upwards_trend: Burndown
-[BURNDOWN AQUI]
 
 </details>
 
