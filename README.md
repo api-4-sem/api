@@ -8,7 +8,6 @@
 | Scrum Master | [Danillo Wesley da Costa Silva](https://github.com/xxzidanilloxx) |
 | Dev | [Beatrice Lopes Correa](https://github.com/beatricelopes) |
 | Dev | [Jhonny Freitas Dutra](https://github.com/dutrajy) |
-| Dev | [Lucas Caetano da Silva](https://github.com/L0uks) |
 | Dev | [Luciano do Nascimento Pamplona da Silva](https://github.com/lucianonps) |
 | Dev | [Matheus Cruz Fiebig](https://github.com/matheus-fiebig) |
 | Dev | [Wagner de Deus da Silva Júnior](https://github.com/wdeus) |
@@ -129,12 +128,14 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 ### Sprint 3
 
+- [ ] Dashboard geral do sistema
+- [ ] Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises
 - [ ] Análise geográfica de parceiros
-- [ ] Envio de alertas para trilhas próximas ao vencimento
-- [ ] Envio de alertas por procedimento fora do padrão na conclusão da trilha
 
 ### Sprint 4
 
+- [ ] Envio de alertas para trilhas próximas ao vencimento
+- [ ] Envio de alertas por procedimento fora do padrão na conclusão da trilha
 - [ ] Procedimentos de backup
 - [ ] Oferecimento de recursos de apoio
 
