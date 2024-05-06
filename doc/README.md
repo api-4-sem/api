@@ -140,12 +140,67 @@ Desenvolver funcionalidades essenciais visando aprimorar o sistema, abrangendo d
 <summary><b> Sprint 3 </b></summary>
 <br>
 
-[RELATÓRIO AQUI]
+## :dart: Objetivo da Sprint
+
+Desenvolvimento de funcionalidades como preparativo para implementação de dashboards.
+
+## :pencil: User Stories (Detalhadas)
+
+### :rocket: Dashboard Geral do Sistema
+
+Desenvolver um painel (dashboard) dedicado à visualização abrangente de todos os parceiros registrados no sistema. Esse painel fornecerá uma visão geral do número total de parceiros, bem como informações detalhadas sobre suas atividades e progresso em relação às expertises e trilhas disponíveis.
+
+### :white_check_mark: Critérios de Aceitação:
+
+### -Visualização do Número de Parceiros:
+- O painel exibirá de forma proeminente o número total de parceiros registrados no sistema, proporcionando aos usuários uma compreensão imediata do tamanho da rede de parceiros.
+### - Detalhes de Expertises Concluídas:
+- Para cada parceiro listado, o painel mostrará o número de expertises já concluídas
+### - Número de Colaboradores Matriculados em Trilhas:
+- Além disso, o painel apresentará o número de colaboradores de cada parceiro matriculados em trilhas específicas, fornecendo insights sobre a participação e o envolvimento da equipe de cada parceiro nas atividades de capacitação oferecidas pelo sistema como um rankeamento com base em suas avaliações.
+### - Acesso Fácil e Intuitivo:
+- Os usuários poderão acessar o painel de visualização de parceiros de forma fácil e intuitiva, através de um botão ou link claramente identificado na interface do sistema, garantindo uma experiência de usuário fluida e sem complicações.
+### - Opções de Personalização:
+- O sistema oferecerá opções de personalização da visualização do dashboard, permitindo que os usuários configurem as informações exibidas de acordo com suas preferências e necessidades específicas. Isso pode incluir a capacidade de ajustar os filtros, selecionar métricas específicas para exibição e personalizar o layout do painel.
+
+### :rocket: Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises
+
+Desenvolver um painel (dashboard) dedicado à identificação e monitoramento dos parceiros que tentaram concluir uma trilha sem ter concluído todas as expertises necessárias anteriormente. Esse painel destacará os parceiros em situação de não conformidade, fornecendo alertas visuais para chamar a atenção dos administradores e gestores.
+
+### :white_check_mark: Critérios de Aceitação:
+
+### - Identificação de Parceiros Não Conformes:
+- O painel destacará visualmente os parceiros que tentaram concluir uma trilha sem ter concluído todas as expertises pré-requisitadas, permitindo uma identificação rápida e fácil dos casos de não conformidade.
+### - Indicadores de Alerta Visual:
+- Os parceiros em situação de não conformidade serão destacados em um tom de cor distintivo, como vermelho ou outra cor de destaque, para chamar a atenção dos administradores e gestores para a necessidade de ação imediata.
+### - Detalhes de Expertises Pendentes:
+- Para cada parceiro em situação de não conformidade, o painel fornecerá detalhes sobre as expertises que ainda precisam ser concluídas antes que a trilha possa ser finalizada com sucesso.
+  
+- Será implementado um mecanismo de alerta para notificar os administradores e gestores sobre os casos de não conformidade. 
+### - Acesso Fácil e Intuitivo:
+- Os usuários poderão acessar o painel de alerta para parceiros de forma fácil e intuitiva, através de um botão ou link claramente identificado na interface do sistema, garantindo uma identificação rápida e eficaz dos casos de não conformidade.
+
+### :rocket: Análise Geográfica de Parceiros
+
+Desenvolver um mapa interativo que destaque as regiões geográficas com maior concentração de parceiros. Este mapa será uma ferramenta valiosa para os administradores e gestores visualizarem de forma rápida e intuitiva onde estão localizados os principais  parceiros.
+
+### :white_check_mark: Critérios de Aceitação:
+
+### - Visualização de Dados Geográficos:
+- O mapa deverá exibir as fronteiras geográficas relevantes, como países, estados ou regiões, dependendo do nível de detalhe desejado.
+### - Marcação de Parceiros:
+- Cada parceiro será representado por um marcador no mapa, indicando sua localização geográfica precisa. Os marcadores podem ser diferenciados por cores ou ícones para representar diferentes tipos de parceiros ou níveis de atividade.
+### - Agregação de Dados:
+- O sistema deve ser capaz de agrupar os parceiros próximos em clusters para evitar a poluição visual do mapa e facilitar a identificação das áreas com maior densidade de parceiros.
+### - Interatividade:
+- Os usuários devem poder interagir com o mapa, clicando nos marcadores para obter informações detalhadas sobre cada parceiro, como nome, número de expertises concluídas, número de colaboradores, etc.
+### - Filtros e Opções de Visualização:
+- Deve ser possível aplicar filtros ao mapa para visualizar apenas os parceiros que atendam a determinados critérios, como prazo de certificação, ou progresso em trilha. Além disso, o mapa deve oferecer opções de visualização, como alterar o tipo de mapa  e ajustar o nível de zoom.
 
 </details>
 
 ## :open_book: Manual do Usuário
-[DOCUMENTO AQUI]
+[Manual](https://github.com/api-4-sem/api/blob/main/doc/manual-do-usuario.pdf)
 
 ## :gear: Como executar o Back-End do projeto
 
