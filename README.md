@@ -87,13 +87,13 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | Relatórios |	Extração de Relatório |	Eu como administrador <br> Quero permitir a integração com ferramentas de edição de planilhas <br> Para análises mais avançadas do desempenho da trilha dos meus parceiros e assim poder visualizar melhor meus dados |	11 |	2 |
 | Avaliação de Parceiros |	Formulário para avaliação de parceiro |	Eu como administrador <br> Quero visualizar avaliações de parceiros com base em critérios de pontuações <br> Para poder indicar ou realizar melhorias nas trilhas |	9 |	2 |
 | Gestão de Notificações |	Edição |	Eu como administrador <br> Quero permitir que os parceiros possam personalizar suas preferências de notificação e escolher quais tipos de alertas desejam receber <br> Para configurar a frequência e o tipo dos alertas |	10 |	2 |
-| **Análise Geográfica de Parceiros** | **Visualização** | **Eu como administrador <br> Quero identificar regiões com maior concentração de parceiros e regiões com lacunas de parceiros <br> Para melhor compreensão dos indicadores e dos parceiros que consomem o serviço** | **13** | **3** |
-| **Dashboard** | **Visualização** | **Eu como administrador <br> Quero um dashboard centralizado <br> Para controlar e gerenciar aspectos importantes do sistema** | **12** | **3** |
-| **Governança de Dados** | **Visualização** | **Eu como administrador <br> Quero uma ferramenta <br> Para lidar com dados não conformes** | **14** | **3** |
-| Gestão de Notificações | Alertas de vencimentos de certificação |  Eu como administrador <br> Quero permitir o envio de alertas para certificações que estejam próximas do vencimento <br> Para garantir o término das trilhas e assim possa ter confiabilidade em meus dados| 16 | 4 |
-| Gestão de Notificações | Alertas de procedimento fora do padrão | Eu como administrador <br> Quero enviar um alerta para cada usuário que tentar concluir uma trilha sem ter concluído todas suas expertises <br> Para evitar um procedimento fora do padrão | 17 | 4 |
-| Governança de Dados	| Visualização | Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a disponibilidade das informações | 15 | 4 |
-| Desenvolvimento de Parceiros | Acompanhamento de desenvolvimento de parceiros | Eu como administrador <br> Quero identificar áreas de necessidade e oferecer recursos de apoio <br> Para ajudar os parceiros a superar seus desafios | 18 | 4 |
+| Análise Geográfica de Parceiros | Visualização | Eu como administrador <br> Quero identificar regiões com maior concentração de parceiros e regiões com lacunas de parceiros <br> Para melhor compreensão dos indicadores e dos parceiros que consomem o serviço | 13 | 3 |
+| Dashboard | Visualização | Eu como administrador <br> Quero um dashboard centralizado <br> Para controlar e gerenciar aspectos importantes do sistema | 12 | 3 |
+| **Governança de Dados** | **Visualização** | **Eu como administrador <br> Quero uma ferramenta <br> Para lidar com dados não conformes** | **14** | **4** |
+| **Gestão de Notificações** | **Alertas de vencimentos de certificação** |  **Eu como administrador <br> Quero permitir o envio de alertas para certificações que estejam próximas do vencimento <br> Para garantir o término das trilhas e assim possa ter confiabilidade em meus dados** | **16** | **4** |
+| **Gestão de Notificações** | **Alertas de procedimento fora do padrão** | **Eu como administrador <br> Quero enviar um alerta para cada usuário que tentar concluir uma trilha sem ter concluído todas suas expertises <br> Para evitar um procedimento fora do padrão** | **17** | **4** |
+| **Governança de Dados**	| **Visualização** | **Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a disponibilidade das informações** | **15** | **4** |
+| **Desenvolvimento de Parceiros** | **Acompanhamento de desenvolvimento de parceiros** | **Eu como administrador <br> Quero identificar áreas de necessidade e oferecer recursos de apoio <br> Para ajudar os parceiros a superar seus desafios** | **18** | **4** |
 
 </details>
 
@@ -103,8 +103,8 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | :---: | :---: | :---: |
 | 1 | 14/04 | :white_check_mark: |
 | 2 | 05/05 | :white_check_mark:	|
-| **3** | **26/05** | :hourglass_flowing_sand: |
-| 4 | 16/06 | :hourglass_flowing_sand: |
+| 3 | 26/05 | :white_check_mark: |
+| **4** | **16/06** | :hourglass_flowing_sand: |
 
 ## :spiral_calendar: Planejamento
 
@@ -130,15 +130,15 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 ### Sprint 3
 
-- [ ] **Dashboard geral do sistema**
-- [ ] **Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises**
-- [ ] **Análise geográfica de parceiros**
+- [x] Dashboard geral do sistema
+- [x] Análise geográfica de parceiros
 
 ### Sprint 4
 
-- [ ] Envio de alertas para trilhas próximas ao vencimento
-- [ ] Envio de alertas por procedimento fora do padrão na conclusão da trilha
-- [ ] Procedimentos de backup
-- [ ] Oferecimento de recursos de apoio
+- [ ] **Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises**
+- [ ] **Envio de alertas para trilhas próximas ao vencimento**
+- [ ] **Envio de alertas por procedimento fora do padrão na conclusão da trilha**
+- [ ] **Procedimentos de backup**
+- [ ] **Oferecimento de recursos de apoio**
 
 </details>
