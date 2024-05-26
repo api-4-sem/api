@@ -197,10 +197,13 @@ Desenvolver um mapa interativo que destaque as regiões geográficas com maior c
 ### - Filtros e Opções de Visualização:
 - Deve ser possível aplicar filtros ao mapa para visualizar apenas os parceiros que atendam a determinados critérios, como prazo de certificação, ou progresso em trilha. Além disso, o mapa deve oferecer opções de visualização, como alterar o tipo de mapa  e ajustar o nível de zoom.
 
+## :chart_with_upwards_trend: Burndown
+![burndown-sprint3](https://github.com/api-4-sem/api/assets/111617208/e0752b42-b37c-407d-9e43-deacbcf1baa5)
+
 </details>
 
 ## :open_book: Manual do Usuário
-[Manual](https://github.com/api-4-sem/api/blob/main/doc/manual-do-usuario.pdf)
+[Manual](https://github.com/api-4-sem/api/blob/main/doc/manual.pdf)
 
 ## :gear: Como executar o Back-End do projeto
 
