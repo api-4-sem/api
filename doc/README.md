@@ -163,23 +163,6 @@ Desenvolver um painel (dashboard) dedicado à visualização abrangente de todos
 ### - Opções de Personalização:
 - O sistema oferecerá opções de personalização da visualização do dashboard, permitindo que os usuários configurem as informações exibidas de acordo com suas preferências e necessidades específicas. Isso pode incluir a capacidade de ajustar os filtros, selecionar métricas específicas para exibição e personalizar o layout do painel.
 
-### :rocket: Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises
-
-Desenvolver um painel (dashboard) dedicado à identificação e monitoramento dos parceiros que tentaram concluir uma trilha sem ter concluído todas as expertises necessárias anteriormente. Esse painel destacará os parceiros em situação de não conformidade, fornecendo alertas visuais para chamar a atenção dos administradores e gestores.
-
-### :white_check_mark: Critérios de Aceitação:
-
-### - Identificação de Parceiros Não Conformes:
-- O painel destacará visualmente os parceiros que tentaram concluir uma trilha sem ter concluído todas as expertises pré-requisitadas, permitindo uma identificação rápida e fácil dos casos de não conformidade.
-### - Indicadores de Alerta Visual:
-- Os parceiros em situação de não conformidade serão destacados em um tom de cor distintivo, como vermelho ou outra cor de destaque, para chamar a atenção dos administradores e gestores para a necessidade de ação imediata.
-### - Detalhes de Expertises Pendentes:
-- Para cada parceiro em situação de não conformidade, o painel fornecerá detalhes sobre as expertises que ainda precisam ser concluídas antes que a trilha possa ser finalizada com sucesso.
-  
-- Será implementado um mecanismo de alerta para notificar os administradores e gestores sobre os casos de não conformidade. 
-### - Acesso Fácil e Intuitivo:
-- Os usuários poderão acessar o painel de alerta para parceiros de forma fácil e intuitiva, através de um botão ou link claramente identificado na interface do sistema, garantindo uma identificação rápida e eficaz dos casos de não conformidade.
-
 ### :rocket: Análise Geográfica de Parceiros
 
 Desenvolver um mapa interativo que destaque as regiões geográficas com maior concentração de parceiros. Este mapa será uma ferramenta valiosa para os administradores e gestores visualizarem de forma rápida e intuitiva onde estão localizados os principais  parceiros.
@@ -199,6 +182,86 @@ Desenvolver um mapa interativo que destaque as regiões geográficas com maior c
 
 ## :chart_with_upwards_trend: Burndown
 ![burndown-sprint3](https://github.com/api-4-sem/api/assets/111617208/e0752b42-b37c-407d-9e43-deacbcf1baa5)
+
+</details>
+
+<details>  
+<summary><b> Sprint 4 </b></summary>
+<br>
+
+## :dart: Objetivo da Sprint
+Desenvolvimento de funcionalidades essenciais para a melhoria da gestão de parceiros e a implementação de alertas e procedimentos de apoio.
+
+## 📝 User Stories (Detalhadas)
+
+### 🚀 Desenvolvimento de Funcionalidade Envolvendo Lista de Parceiros que Não Concluíram Todas as Expertises
+Desenvolver um painel (dashboard) dedicado à identificação e monitoramento dos parceiros que não concluíram todas as expertises necessárias. Esse painel ajudará a destacar os parceiros em situação de não conformidade, fornecendo alertas visuais para chamar a atenção dos administradores e gestores.
+
+### ✅ Critérios de Aceitação:
+### - Identificação de Parceiros Não Conformes:
+  O painel destacará visualmente os parceiros que não concluíram todas as expertises pré-requisitadas, permitindo uma identificação rápida e fácil dos casos de não conformidade.
+### - Indicadores de Alerta Visual:
+  Os parceiros em situação de não conformidade serão destacados em um tom de cor distintivo, como vermelho, para chamar a atenção dos administradores e gestores para a necessidade de ação imediata.
+### - Detalhes de Expertises Pendentes:
+  Para cada parceiro em situação de não conformidade, o painel fornecerá detalhes sobre as expertises que ainda precisam ser concluídas.
+### - Mecanismo de Alerta: 
+  Será implementado um mecanismo de alerta para notificar os administradores e gestores sobre os casos de não conformidade.
+### - Acesso Fácil e Intuitivo: 
+  Os usuários poderão acessar o painel de alerta para parceiros de forma fácil e intuitiva, através de um botão ou link claramente identificado na interface do sistema.
+
+### 🚀 Envio de Alertas para Trilhas Próximas ao Vencimento
+Desenvolver uma funcionalidade que envia alertas para os administradores e gestores sobre trilhas de treinamento próximas ao vencimento. Isso garantirá que as ações necessárias sejam tomadas antes que os prazos expirem.
+
+### ✅ Critérios de Aceitação:
+### - Detecção de Trilhas Próximas ao Vencimento: 
+  O sistema identificará automaticamente as trilhas de treinamento que estão próximas ao prazo de vencimento.
+### - Envio de Alertas Automáticos: 
+  Alertas serão enviados automaticamente aos administradores e gestores através de notificações no sistema, e-mails  conforme configurado.
+### - Personalização de Alertas: 
+  Os usuários poderão personalizar a frequência e o formato dos alertas para se adequarem às suas necessidades.
+### - Resumo de Trilhas:
+  Os alertas incluirão um resumo das trilhas próximas ao vencimento, destacando os parceiros e colaboradores envolvidos.
+
+### 🚀 Envio de Alertas por Procedimento Fora do Padrão 
+Desenvolver uma funcionalidade que envia alertas quando procedimentos fora do padrão são detectados na conclusão de uma trilha de treinamento ou no credenciamento de um novo parceiro. Isso ajudará a manter a conformidade e a qualidade dos processos.
+
+### ✅ Critérios de Aceitação:
+### - Detecção de Procedimentos Fora do Padrão: 
+  O sistema identificará automaticamente quando procedimentos fora do padrão são realizados durante a conclusão de uma trilha ou na submissao de um um novo parceiro.
+### - Envio de Alertas Imediatos: 
+  Alertas visuais serão enviados imediatamente aos administradores e gestores, permitindo uma ação rápida para corrigir qualquer irregularidade.
+### - Detalhamento dos Procedimentos: 
+  Os alertas incluirão detalhes específicos sobre os procedimentos fora do padrão detectados, ajudando na análise e instrucao para correção dos mesmos por parte do usuario.
+### - Histórico de Alertas: 
+  O sistema manterá um histórico dos alertas enviados, permitindo uma análise retrospectiva e a identificação de padrões de não conformidade.
+
+### 🚀 Procedimentos de Backup
+Desenvolver e implementar procedimentos robustos de backup para garantir a segurança e a integridade dos dados do sistema.
+
+### ✅ Critérios de Aceitação:
+### - Automação de Backups: 
+  Os backups serão automatizados, ocorrendo em intervalos regulares para garantir a proteção contínua dos dados.
+### - Verificação de Integridade: 
+  O sistema realizará verificações regulares de integridade dos backups para assegurar que os dados podem ser restaurados sem corrupção.
+### - Armazenamento Seguro: 
+  Os backups serão armazenados em locais seguros e redundantes para proteger contra perda de dados.
+### - Restaurabilidade: 
+  Testes regulares de restauração serão conduzidos para garantir que os dados possam ser recuperados de forma rápida e eficiente em caso de necessidade.
+### - Notificações de Backup: 
+  Alertas serão enviados aos administradores confirmando a conclusão bem-sucedida de cada processo de backup.
+
+### 🚀 Oferecimento de Recursos de Apoio
+Desenvolver uma seção dedicada a recursos de apoio dentro do sistema, fornecendo aos usuários acesso fácil a materiais de suporte e ajuda.
+
+### ✅ Critérios de Aceitação:
+### - Central de Recursos:
+  O sistema terá uma central de recursos onde os usuários poderão acessar guias, tutoriais e outros materiais de suporte.
+### - Acesso Intuitivo: 
+  A central de recursos será acessível através de um botão ou link claramente identificado na interface do sistema.
+### - Atualização Regular: 
+  Os recursos de apoio serão revisados e atualizados regularmente para garantir que as informações fornecidas sejam precisas e relevantes.
+### - Feedback dos Usuários: 
+  Os usuários poderão fornecer feedback sobre os recursos de apoio, ajudando a melhorar continuamente a qualidade e a utilidade dos materiais disponíveis.
 
 </details>
 
