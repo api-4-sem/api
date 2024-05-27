@@ -305,3 +305,4 @@ npm run serve
 ## :card_file_box: Modelagem do Banco de Dados
 ![modelagem](https://github.com/api-4-sem/api/assets/111617208/fcf9de96-bcfe-4be8-bbc3-a2775e235645)
 
+ 
