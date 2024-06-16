@@ -135,10 +135,8 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 ### Sprint 4
 
-- [ ] **Desenvolvimento de funcionalidade envolvendo lista de parceiros que não concluíram todas as expertises**
-- [ ] **Envio de alertas para trilhas próximas ao vencimento**
-- [ ] **Envio de alertas por procedimento fora do padrão na conclusão da trilha**
-- [ ] **Procedimentos de backup**
-- [ ] **Oferecimento de recursos de apoio**
+- [ ] **Desenvolvimento de dashboard que rankeie os melhores parceiros**
+- [ ] **Atualização de parceiros existentes**
+- [ ] **Confecção de documento data quality**
 
 </details>
