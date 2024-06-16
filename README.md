@@ -138,5 +138,6 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 - [ ] **Desenvolvimento de dashboard que rankeie os melhores parceiros**
 - [ ] **Atualização de parceiros existentes**
 - [ ] **Confecção de documento data quality**
+- [ ] **Integração de rotinas de backup**
 
 </details>
