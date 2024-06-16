@@ -89,11 +89,10 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | Gestão de Notificações |	Edição |	Eu como administrador <br> Quero permitir que os parceiros possam personalizar suas preferências de notificação e escolher quais tipos de alertas desejam receber <br> Para configurar a frequência e o tipo dos alertas |	10 |	2 |
 | Análise Geográfica de Parceiros | Visualização | Eu como administrador <br> Quero identificar regiões com maior concentração de parceiros e regiões com lacunas de parceiros <br> Para melhor compreensão dos indicadores e dos parceiros que consomem o serviço | 13 | 3 |
 | Dashboard | Visualização | Eu como administrador <br> Quero um dashboard centralizado <br> Para controlar e gerenciar aspectos importantes do sistema | 12 | 3 |
-| **Governança de Dados** | **Visualização** | **Eu como administrador <br> Quero uma ferramenta <br> Para lidar com dados não conformes** | **14** | **4** |
-| **Gestão de Notificações** | **Alertas de vencimentos de certificação** |  **Eu como administrador <br> Quero permitir o envio de alertas para certificações que estejam próximas do vencimento <br> Para garantir o término das trilhas e assim possa ter confiabilidade em meus dados** | **16** | **4** |
-| **Gestão de Notificações** | **Alertas de procedimento fora do padrão** | **Eu como administrador <br> Quero enviar um alerta para cada usuário que tentar concluir uma trilha sem ter concluído todas suas expertises <br> Para evitar um procedimento fora do padrão** | **17** | **4** |
-| **Governança de Dados**	| **Visualização** | **Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a disponibilidade das informações** | **15** | **4** |
-| **Desenvolvimento de Parceiros** | **Acompanhamento de desenvolvimento de parceiros** | **Eu como administrador <br> Quero identificar áreas de necessidade e oferecer recursos de apoio <br> Para ajudar os parceiros a superar seus desafios** | **18** | **4** |
+| **Dashoboard** | **Visualização** | **Eu como administrador <br> Quero uma ferramenta <br> Para rankear os melhores parceiros** | **14** | **4** |
+| **Gestão de dados** | **Padrões de dados** | **Eu como administrador <br> Quero um documento sobre padrões de dados <br> Para que siga as regras de governaças de dados** | **17** | **4** |
+| **Governança de Dados**	| **Visualização** | **Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a regras os padrões e regras de governança de dados a serem seguidos na organização.** | **15** | **4** |
+| **Atualização de Parceiros** | **Acompanhamento de desenvolvimento de parceiros** | **Eu como administrador <br> Quero um método para autalizar parceiros <br> Para atualizar parceiros Desenvolvendo um processo eficiente para atualizar informações de parceiros antigos.** | **18** | **4** |
 
 </details>
 
