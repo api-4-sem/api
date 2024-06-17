@@ -60,6 +60,10 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 </details>
 
+## :notebook: Documentação do projeto
+[Documentação](https://github.com/api-4-sem/api/tree/main/doc)
+
+
 ## :hammer_and_wrench: Tecnologias utilizadas
 <div align="center">
     <img src="https://github.com/api-4-sem/api/assets/111617208/ca9c93cf-533a-46d8-8732-b89c402819bb" alt="java">
@@ -89,10 +93,10 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | Gestão de Notificações |	Edição |	Eu como administrador <br> Quero permitir que os parceiros possam personalizar suas preferências de notificação e escolher quais tipos de alertas desejam receber <br> Para configurar a frequência e o tipo dos alertas |	10 |	2 |
 | Análise Geográfica de Parceiros | Visualização | Eu como administrador <br> Quero identificar regiões com maior concentração de parceiros e regiões com lacunas de parceiros <br> Para melhor compreensão dos indicadores e dos parceiros que consomem o serviço | 13 | 3 |
 | Dashboard | Visualização | Eu como administrador <br> Quero um dashboard centralizado <br> Para controlar e gerenciar aspectos importantes do sistema | 12 | 3 |
-| **Dashoboard** | **Visualização** | **Eu como administrador <br> Quero uma ferramenta <br> Para rankear os melhores parceiros** | **14** | **4** |
-| **Gestão de dados** | **Padrões de dados** | **Eu como administrador <br> Quero um documento sobre padrões de dados <br> Para que siga as regras de governaças de dados** | **17** | **4** |
-| **Governança de Dados**	| **Visualização** | **Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a regras os padrões e regras de governança de dados a serem seguidos na organização.** | **15** | **4** |
-| **Atualização de Parceiros** | **Acompanhamento de desenvolvimento de parceiros** | **Eu como administrador <br> Quero um método para autalizar parceiros <br> Para atualizar parceiros Desenvolvendo um processo eficiente para atualizar informações de parceiros antigos.** | **18** | **4** |
+| Dashoboard | Visualização | Eu como administrador <br> Quero uma ferramenta <br> Para ranquear os melhores parceiros | 14 | 4 |
+| Gestão de dados | Padrões de dados | Eu como administrador <br> Quero um documento sobre padrões de dados <br> Para que siga as regras de governaças de dados | 17 | 4 |
+| Governança de Dados	| Visualização | Eu como administrador <br> Quero estabelecer procedimentos de backup e recuperação de dados <br> Para garantir a regras os padrões e regras de governança de dados a serem seguidos na organização. | 15 | 4 |
+| Atualização de Parceiros | Acompanhamento de desenvolvimento de parceiros | Eu como administrador <br> Quero um método para autalizar parceiros <br> Para atualizar parceiros Desenvolvendo um processo eficiente para atualizar informações de parceiros antigos. | 18 | 4 |
 
 </details>
 
@@ -103,7 +107,7 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 | 1 | 14/04 | :white_check_mark: |
 | 2 | 05/05 | :white_check_mark:	|
 | 3 | 26/05 | :white_check_mark: |
-| **4** | **16/06** | :hourglass_flowing_sand: |
+| 4 | 16/06 | :white_check_mark: |
 
 ## :spiral_calendar: Planejamento
 
@@ -134,9 +138,9 @@ O projeto consiste em desenvolver um sistema para acompanhar o progresso dos par
 
 ### Sprint 4
 
-- [ ] **Desenvolvimento de dashboard que rankeie os melhores parceiros**
-- [ ] **Atualização de parceiros existentes**
-- [ ] **Confecção de documento data quality**
-- [ ] **Integração de rotinas de backup**
+- [x] Desenvolvimento de dashboard que ranqueie os melhores parceiros
+- [x] Atualização de parceiros existentes
+- [x] Confecção de documento data quality
+- [x] Integração de rotinas de backup
 
 </details>
