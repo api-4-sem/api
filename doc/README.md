@@ -268,6 +268,9 @@ Desenvolver uma seção dedicada a recursos de apoio dentro do sistema, fornecen
 ## :open_book: Manual do Usuário
 [Manual](https://github.com/api-4-sem/api/blob/main/doc/manual.pdf)
 
+## :bookmark_tabs: Data Quality
+[Documento de Padrões de Qualidade de Dados](https://github.com/api-4-sem/api/blob/main/doc/data_quality.pdf)
+
 ## :gear: Como executar o Back-End do projeto
 
 Pré-requisitos: Java 17
